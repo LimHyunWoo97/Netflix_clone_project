@@ -1,4 +1,4 @@
-# NETFLIX CLONE Prohect
+# NETFLIX CLONE Project
 
 Flutter를 이용하여 도전해본 넷플릭스 클론 프로젝트 입니다.
 
